@@ -1,17 +1,16 @@
 ## Dobrodošli na mom GitHub profilu! 👋
 
 ### O meni
-Student sam treće godine Primenjenog softverskog inženjeringa na Fakultetu tehničkih nauka u Novom Sadu. Tokom studija sam stekao iskustvo u različitim programskim jezicima, uključujući:
+Student sam treće godine Primenjenog softverskog inženjeringa na Fakultetu tehničkih nauka u Novom Sadu. Tokom studija sam stekao iskustvo u različitim programskim jezicima.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) ![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=julia&logoColor=white) ![VHDL](https://img.shields.io/badge/VHDL-543978?style=flat-square&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![Assembler](https://img.shields.io/badge/Assembler-808080?style=flat-square&logoColor=white)
+### Fakultet
+- Programski jezici na fakultetu: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) ![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=julia&logoColor=white) ![VHDL](https://img.shields.io/badge/VHDL-543978?style=flat-square&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![Assembler](https://img.shields.io/badge/Assembler-808080?style=flat-square&logoColor=white)
+  
+- Iskustvo na fakultetu: OOP (Objektno orijentisano programiranje), WPF (Windows Presentation Foundation), Agilan razvoj softvera, SOLID principi, Scrum metodologija, Matematika, Elektrotehnika, Elektroenergetika
 
-Posebno sam zainteresovan za oblast veštačke inteligencije.
-
-### Veštine
+### Individualno
 - Veštačka inteligencija: TensorFlow, konvolutivne i rekurentne neuronske mreže.
-- Web development: ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
-- Backend: ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-- Baze podataka: MySQL.
+- Web development: ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white) - Backend: ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) - Baze podataka: MySQL.
 
 ### Trenutno na Fakultetu
 Pohađam predmete kao što su Baze podataka, Računarske mreže, Programski prevodioci, Modeliranje i simulacije, i Agilan razvoj softvera.
@@ -33,19 +32,3 @@ Veštačka inteligencija, AI, backend, rad sa podacima.
 - [Email](email@example.com)
 
 Feel free to explore my repositories and get in touch! 🚀
-### Hi there 👋
-
-<!--
-**Milosevic02/Milosevic02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
