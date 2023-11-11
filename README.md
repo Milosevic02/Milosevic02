@@ -4,20 +4,8 @@
 Student sam treće godine Primenjenog softverskog inženjeringa na Fakultetu tehničkih nauka u Novom Sadu. Tokom studija sam stekao iskustvo u različitim programskim jezicima.
 
 ### Fakultet
+
 - **Programski jezici na fakultetu:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) ![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=julia&logoColor=white) ![VHDL](https://img.shields.io/badge/VHDL-543978?style=flat-square&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![Assembler](https://img.shields.io/badge/Assembler-808080?style=flat-square&logoColor=white)
-  
-- **Dodatno na fakultetu:**
-  - OOP (Objektno orijentisano programiranje)
-  - WPF (Windows Presentation Foundation)
-  - Konkurentno programiranje
-  - Agilan razvoj softvera (SOLID principi, Scrum metodologija)
-  - Razna Matematika (diskretna, algebra, analiza, metode optimizacije)
-  - Elektrotehnika, Elektroenergetika
-  - Algoritmi (Pretrage, sortiranja)
-  - Baze podataka (SQL, ER Modeli)
-  - Računarske Mreže (Komunikacija klijent-server)
-  - Programski prevodioci (Učenje o radu i pravljenje kompajlera)
-  - Modeliranje i simulacija.
 
 ### Individualno
 - **Veštačka inteligencija:** TensorFlow, konvolutivne i rekurentne neuronske mreže. Stekao sam odličnu osnovu na fakultetu, a istražujem dalje u ovoj oblasti.
@@ -30,11 +18,23 @@ Student sam treće godine Primenjenog softverskog inženjeringa na Fakultetu teh
 - 🥈 Drugo mesto na IEEE-4 Challange takmičenju.
 - 🌟 Trenutno se takmičim u BOSCH FUTURE CHALLENGE.
 
+  ### Dodatno na fakultetu:
+  - Razna Matematika (diskretna, algebra, analiza, metode optimizacije)
+  - Algoritmi (Pretrage, sortiranja)
+  - Baze podataka (SQL, ER Modeli)
+  - Programski prevodioci (Učenje o radu i pravljenje kompajlera)
+  - Modeliranje i simulacija.
+  - OOP (Objektno orijentisano programiranje)
+  - WPF (Windows Presentation Foundation)
+  - Konkurentno programiranje
+  - Agilan razvoj softvera (SOLID principi, Scrum metodologija)
+  - Elektrotehnika, Elektroenergetika
+  - Računarske Mreže (Komunikacija klijent-server)
+
 ### Teme koje me najviše zanimaju
 Veštačka inteligencija, AI, backend, rad sa podacima. Iako imam solidno znanje i u frontendu, preferiram rešavanje problema nad stilizacijom.
 
 ### Kontakt
-- [LinkedIn](link)
-- [Email](email@example.com)
+- [Email](milosevicdragan002@gmail.com)
 
 Slobodno istražujte moje repozitorijume i javite se! 🚀
