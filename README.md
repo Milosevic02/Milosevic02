@@ -9,7 +9,7 @@ I am a third-year student of Applied Software Engineering at the Faculty of Tech
 
 ### Individual Skills
 - **Artificial Intelligence:** ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-, Convolutional and Recurrent ![Neural Networks](https://img.shields.io/badge/Neural_Networks-FF8C00?style=flat-square&logo=neuralnetworks&logoColor=white)
+, Convolutional and Recurrent Neural Networks
 . I have a solid foundation from my university studies and continue to explore this field.
 - **Web development:** ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white) 
 - **Backend:** ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) 
