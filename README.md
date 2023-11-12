@@ -13,7 +13,7 @@ I am a third-year student of Applied Software Engineering at the Faculty of Tech
 . I have a solid foundation from my university studies and continue to explore this field.
 - **Web development:** ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white) 
 - **Backend:** ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) 
-- **Databases:** MySQL.
+- **Databases:** SQL.
 
 ### Experience and Competitions
 - 🏆 First place in a hackathon on convolutional neural networks.
@@ -22,8 +22,8 @@ I am a third-year student of Applied Software Engineering at the Faculty of Tech
 
 ### Additional University Courses:
 - Object-Oriented Programming (OOP)
-- Various Mathematics (discrete, algebra, analysis, optimization methods)
-- Algorithms (searches, sorts)
+- Various Mathematics (discrete, algebra, analysis, optimization methods,etc.)
+- Algorithms (searches, sorts,etc.)
 - Databases (SQL, ER Models)
 - Compilers (Learning about compiler operation and construction)
 - Modeling and Simulation
@@ -34,7 +34,7 @@ I am a third-year student of Applied Software Engineering at the Faculty of Tech
 - Computer Networks (Client-Server Communication)
 
 ### Areas of Interest
-Artificial Intelligence, AI, backend, and data handling. While I have a good understanding of frontend, I prefer problem-solving over styling, although I have gone through frontend development to have a holistic view of web development.
+Artificial Intelligence, Machine Learning, Backend, and Data science. While I possess a solid grasp of frontend development, my inclination leans towards problem-solving rather than styling. Nevertheless, I have immersed myself in frontend development to attain a comprehensive understanding of web development as a whole.
 
 ### Personal Traits
 I enjoy teamwork, as confirmed by my participation in two competitions during my second year of college. In addition to winning prizes at these competitions, I have gained valuable knowledge and new connections. I continue to explore different areas of software engineering, both through my university studies and independently.
