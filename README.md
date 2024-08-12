@@ -39,8 +39,10 @@ I have a deep passion for Artificial Intelligence, Web3 technologies, and ethica
 ### Personal Traits
 I enjoy teamwork, as confirmed by my participation in two competitions during my second year of college. In addition to winning prizes at these competitions, I have gained valuable knowledge and new connections. I continue to explore different areas of software engineering, both through my university studies and independently.
 
-### Contact
-- ![Email](https://img.shields.io/badge/Email-milosevicdragan002%40gmail.com-blue?style=flat-square&logo=gmail) 
-- [LinkedIn](https://www.linkedin.com/in/dragan-milosevic3/)
+Naravno! Evo logo za LinkedIn u istom stilu:
 
+### Contact
+- ![Email](https://img.shields.io/badge/Email-milosevicdragan002%40gmail.com-blue?style=flat-square&logo=gmail)
+- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)
+  
 Feel free to explore my repositories and reach out! 🚀
