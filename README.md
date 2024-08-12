@@ -18,7 +18,7 @@ I am a final-year student of Applied Software Engineering at the Faculty of Tech
 - 🏆 First place in a hackathon on convolutional neural networks.
 - 🚀 Attended Web3 Camp in Petnica.
 - 🥈 Second place in the IEEE-4 Challenge competition.
-- 🌟 Participated in the BOSCH FUTURE CHALLENGE.
+- 🌟 Participated in the BOSCH FUTURE MOBILITY CHALLENGE.
 
 ### Additional University Courses:
 - Object-Oriented Programming (OOP)
