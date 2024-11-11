@@ -14,30 +14,20 @@ I am a final-year student of Applied Software Engineering at the Faculty of Tech
 - **Databases:** SQL.
 
 ### Experience and Competitions
+- 🏆 ETH Sofia – Won 4 sponsors’ bounties:
+  - 🥇 1st place – Chainbase, iExec, SEEBLOCKS.eu
+  - 🥉 3rd place – AI Open Track
 - 🏆 First place in the COMTRADE EDIT competition for creating a bank chatbot with NLU capabilities.
 - 🏆 First place in a hackathon on convolutional neural networks.
 - 🚀 Attended Web3 Camp in Petnica.
-- 🥈 Second place in the IEEE-4 Challenge competition.
 - 🌟 Participated in the BOSCH FUTURE MOBILITY CHALLENGE.
-
-### Additional University Courses:
-- Object-Oriented Programming (OOP)
-- Various Mathematics (discrete, algebra, analysis, optimization methods, etc.)
-- Algorithms (searches, sorts, etc.)
-- Databases (SQL, ER Models)
-- Compilers (Learning about compiler operation and construction)
-- Modeling and Simulation
-- Concurrent Programming
-- Agile Software Development (SOLID principles, Scrum methodology)
-- WPF (Windows Presentation Foundation)
-- Electrical Engineering, Electric Power Engineering
-- Computer Networks (Client-Server Communication)
+- 🥈 Second place in the IEEE-4 Challenge competition.
 
 ### Areas of Interest
 I have a deep passion for Artificial Intelligence, Web3 technologies, and ethical hacking. I am driven by solving complex problems and advancing my knowledge in these cutting-edge fields. My primary focus is on leveraging these technologies to create innovative solutions and tackle new challenges.
 
 ### Personal Traits
-I enjoy teamwork, as confirmed by my participation in two competitions during my second year of college. In addition to winning prizes at these competitions, I have gained valuable knowledge and new connections. I continue to explore different areas of software engineering, both through my university studies and independently.
+I enjoy teamwork, as confirmed by my participation in numerous competitions during my time in college. In addition to winning prizes at these competitions, I have gained valuable knowledge and new connections. I continue to explore different areas of software engineering, both through my university studies and independently.
 
 ### Contact
 - ![Email](https://img.shields.io/badge/Email-milosevicdragan002%40gmail.com-blue?style=flat-square&logo=gmail)
